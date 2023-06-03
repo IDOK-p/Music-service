@@ -1,0 +1,76 @@
+﻿[
+  {
+    "title": "Brothers in Christ", 
+	"release date": "14.04.2023",
+	"genre": "noise rock",
+    "tracks": {
+      "Kicks in the Sky": {
+	    "performer": "Nerver",
+		"path": "E://music/hardcore/"
+	  },
+	  "The Nerve": {
+		"performer": "Nerver",
+		"path": "E://music/hardcore"
+	  },
+      "King": {
+	    "performer": "Chat Pile",
+		"path": "E://music/hardcore"
+	  },
+      "Cut": {
+	    "performer": "Chat Pile",
+		"path": "E://music/hardcore"
+	  }
+    }
+  },
+  {
+    "title": "Our Love to Admire", 
+	"release date": "10.07.2007",
+	"genre": "indie-rock",
+    "tracks": {
+      "Pioneer to the Falls": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore/"
+	  },
+	  "No I in Threesome": {
+		"performer": "Interpol",
+		"path": "E://music/hardcore"
+	  },
+      "The Scale": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  },
+      "The Heinrich Maneuver": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "Mammoth": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "Pace Is the Trick": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "All Fired Up": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "Rest My Chemistry": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "Who Do You Think?": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "Wrecking Ball": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }, 
+	  "The Lighthouse": {
+	    "performer": "Interpol",
+		"path": "E://music/hardcore"
+	  }
+    }
+  }
+]
